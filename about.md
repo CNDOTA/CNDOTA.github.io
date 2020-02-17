@@ -18,7 +18,7 @@ Related interested area: AI computing power, Deep learning server (GPU server) a
 
 2019.01 - 2019.06: Internship in Fuxi AI Lab, Netease.
 
-2017.09 - 2020.02: Master in Software Engineering, Tianjin University.
+2017.09 - 2020.02: Master in Software Engineering, Tianjin University. (TJU-RLLAB, mentor Jianye Hao)
 
 2013.09 - 2017.07: Bachelor in Software Engineering, Tianjin University.
 
