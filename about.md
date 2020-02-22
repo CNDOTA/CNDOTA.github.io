@@ -34,13 +34,13 @@ CoRR abs/2002.03939.](https://arxiv.org/abs/2002.03939)
 CoRR abs/2002.03950.](https://arxiv.org/abs/2002.03950)
 
 #### 2019
-- [**Yang, Yaodong**, Jianye Hao, Mingyang Sun, Zan Wang, Changjie Fan, and Goran Strbac. 2018. 
-“Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid.” 
-In Proceedings of the 27th International Joint Conference on Artificial Intelligence, 569–75.](https://doi.org/10.24963/ijcai.2018/79)
+- [**Yang, Yaodong**, Jianye Hao, Yan Zheng, and Chao Yu. 2019. 
+“Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework.” 
+In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 630–636.](https://doi.org/10.24963/ijcai.2019/89.)
 
-- [**Yang, Yaodong**, Jianye Hao, Zan Wang, Mingyang Sun, and Goran Strbac. 2018. 
-“Recurrent Deep Multiagent Q-Learning for Autonomous Agents in Future Smart Grid.” 
-In Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems, 2136–2138.](http://dl.acm.org/citation.cfm?id=3237383.3238097)
+- [**Yang, Yaodong**, Jianye Hao, Yan Zheng, Xiaotian Hao, and Bofeng Fu. 2019. 
+“Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Reinforcement Learning Framework.” 
+In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems, 2285–2287.](http://dl.acm.org/citation.cfm?id=3306127.3332086.)
 
 - [Hao, Xiaotian, Weixun Wang, Jianye Hao, and **Yaodong Yang**. 2019. 
 “Independent Generative Adversarial Self-Imitation Learning in Cooperative Multiagent Systems.” 
@@ -53,7 +53,7 @@ CoRR abs/1905.11100.](http://arxiv.org/abs/1905.11100)
 #### 2018
 - [**Yang, Yaodong**, Jianye Hao, Mingyang Sun, Zan Wang, Changjie Fan, and Goran Strbac. 2018. 
 “Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid.” 
-In Proceedings of the 27th International Joint Conference on Artificial Intelligence, 569–75.](https://doi.org/10.24963/ijcai.2018/79)
+In Proceedings of the 27th International Joint Conference on Artificial Intelligence, 569–575.](https://doi.org/10.24963/ijcai.2018/79)
 
 - [**Yang, Yaodong**, Jianye Hao, Zan Wang, Mingyang Sun, and Goran Strbac. 2018. 
 “Recurrent Deep Multiagent Q-Learning for Autonomous Agents in Future Smart Grid.” 

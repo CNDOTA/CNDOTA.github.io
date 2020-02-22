@@ -5,6 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="att_maven" />
+    <orderEntry type="module" module-name="ma-ppo" />
+    <orderEntry type="module" module-name="att_qmix" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
