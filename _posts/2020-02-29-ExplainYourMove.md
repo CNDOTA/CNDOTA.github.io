@@ -21,5 +21,15 @@ toc: true
 
 <!-- more -->
 
-![ExplainYourMovePPT](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-20-ExplainYourMove/explainyourmove.jpg)
+![ExplainYourMovePPT01](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/1.jpg)
+![ExplainYourMovePPT02](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/2.jpg)
+![ExplainYourMovePPT03](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/3.jpg)
+![ExplainYourMovePPT04](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/4.jpg)
+![ExplainYourMovePPT05](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/5.jpg)
+![ExplainYourMovePPT06](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/6.jpg)
+![ExplainYourMovePPT07](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/7.jpg)
+![ExplainYourMovePPT08](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/8.jpg)
+![ExplainYourMovePPT09](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/9.jpg)
+![ExplainYourMovePPT10](https://github.com/cndota/cndota.github.io/raw/master/images/2020-02-29-ExplainYourMove/10.jpg)
+
 
