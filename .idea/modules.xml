@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CNDOTA.github.io.iml" filepath="$PROJECT_DIR$/.idea/CNDOTA.github.io.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/ATTQMIX_V1/Qatten/.idea/Qatten.iml" filepath="$USER_HOME$/Desktop/ATTQMIX_V1/Qatten/.idea/Qatten.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/ATTQMIX_V1/0 bak/1 ATTQMIX_beta/att_maven/.idea/att_maven.iml" filepath="$USER_HOME$/Desktop/ATTQMIX_V1/0 bak/1 ATTQMIX_beta/att_maven/.idea/att_maven.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/ATTQMIX_V1/att_qmix/.idea/att_qmix.iml" filepath="$USER_HOME$/Desktop/ATTQMIX_V1/att_qmix/.idea/att_qmix.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/mappo/ma-gym/.idea/ma-gym.iml" filepath="$USER_HOME$/Desktop/mappo/ma-gym/.idea/ma-gym.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ma-ppo/.idea/ma-ppo.iml" filepath="$PROJECT_DIR$/../ma-ppo/.idea/ma-ppo.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/maven/.idea/maven.iml" filepath="$USER_HOME$/Desktop/maven/.idea/maven.iml" />
     </modules>
   </component>
 </project>
