@@ -9,6 +9,7 @@
       <module fileurl="file://$USER_HOME$/Desktop/mappo/ma-gym/.idea/ma-gym.iml" filepath="$USER_HOME$/Desktop/mappo/ma-gym/.idea/ma-gym.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ma-ppo/.idea/ma-ppo.iml" filepath="$PROJECT_DIR$/../ma-ppo/.idea/ma-ppo.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/maven/.idea/maven.iml" filepath="$USER_HOME$/Desktop/maven/.idea/maven.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/moba_env-master/.idea/moba_env.iml" filepath="$USER_HOME$/Desktop/moba_env-master/.idea/moba_env.iml" />
     </modules>
   </component>
 </project>

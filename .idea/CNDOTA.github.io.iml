@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="maven" />
     <orderEntry type="module" module-name="Qatten" />
     <orderEntry type="module" module-name="ma-gym" />
+    <orderEntry type="module" module-name="moba_env" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
