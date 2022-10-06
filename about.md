@@ -13,7 +13,7 @@ My current research focuses on multiagent systems, deep reinforcement learning a
 ### Timeline
 
 2022.08 - Now: PhD student in The Chinese University of Hong Kong. ([MiuLar Lab](http://www.cse.cuhk.edu.hk/~pheng/4.html), 
-supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Guangyong Chen](https://guangyongchen.github.io/)).
+supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Prof. [Guangyong Chen](https://guangyongchen.github.io/)).
 
 2021.12 - 2022.07: Research Assistant in The Chinese University of Hong Kong.
 
