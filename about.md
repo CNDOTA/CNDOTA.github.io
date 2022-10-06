@@ -33,7 +33,7 @@ My current research focuses on multiagent systems, deep reinforcement learning a
 #### 2022
 - [NeurIPS 2022] [**Yaodong Yang**, Guangyong Chen, Weixun Wang, Xiaotian Hao, Jianye Hao and Pheng Ann Heng. 2022.
 “What about Inputting Policy in Value Function: Policy Representation and Policy-Extended Value Function Approximator.” 
-Proceedings of the 36th Conference on Neural Information Processing Systems.]
+Proceedings of the 36th Conference on Neural Information Processing Systems.]()
 
 
 - [AAAI 2022] [Tang, Hongyao, Zhaopeng Meng, Jianye Hao, Chen Chen, Daniel Graves, Dong Li, Changmin Yu, Hangyu Mao, Wulong Liu, **Yaodong Yang**, Wenyuan Tao and Li Wang. 2022. 
