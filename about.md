@@ -60,7 +60,7 @@ In Proceedings of the 37th International Conference on Machine Learning.](https:
 #### 2019
 - [IJCAI 2019] [**Yang, Yaodong**, Jianye Hao, Yan Zheng, and Chao Yu. 2019. 
 “Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework.” 
-In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 630–636.](https://doi.org/10.24963/ijcai.2019/89.)
+In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 630–636.](https://doi.org/10.24963/ijcai.2019/89)
 
 
 - [AAMAS 2019] [Hao, Xiaotian, Weixun Wang, Jianye Hao, and **Yaodong Yang**. 2019. 
