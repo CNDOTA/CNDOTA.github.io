@@ -17,13 +17,13 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 2021.12 - 2022.07: Research Assistant in The Chinese University of Hong Kong.
 
-2021.07 - 2021.12: Visiting Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+2021.07 - 2021.12: Visiting Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
 
-2020.07 - 2021.03: Researcher in Decision Making & Reasoning Lab, Noah's Ark Lab, Huawei.
+2020.07 - 2021.03: Researcher in Decision Making & Reasoning Lab, Noah's Ark Lab, Huawei, Hong Kong.
 
-2019.09 - 2020.01: Internship in Quantum Lab, Tencent.
+2019.09 - 2020.01: Internship in Quantum Lab, Tencent, Shenzhen.
 
-2019.01 - 2019.06: Internship in Fuxi AI Lab, Netease.
+2019.01 - 2019.06: Internship in Fuxi AI Lab, Netease, Hangzhou.
 
 2017.09 - 2020.02: Master in Software Engineering, Tianjin University. ([TJU-RLLAB](http://www.icdai.org/), supervised by Prof. [Jianye Hao](http://www.escience.cn/people/jianye/index.html))
 
