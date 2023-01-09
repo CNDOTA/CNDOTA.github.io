@@ -33,7 +33,7 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 #### 2022
 - [NeurIPS 2022] [**Yaodong Yang**, Guangyong Chen, Weixun Wang, Xiaotian Hao, Jianye Hao and Pheng Ann Heng. 2022.
-“What about Inputting Policy in Value Function: Policy Representation and Policy-Extended Value Function Approximator.” 
+“Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing.” 
 In Proceedings of the 36th Conference on Neural Information Processing Systems.]()
 
 
@@ -72,6 +72,12 @@ In Proceedings of the 18th International Conference on Autonomous Agents and Mul
 - [IJCAI 2018] [**Yang, Yaodong**, Jianye Hao, Mingyang Sun, Zan Wang, Changjie Fan, and Goran Strbac. 2018. 
 “Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid.” 
 In Proceedings of the 27th International Joint Conference on Artificial Intelligence, 569–575.](https://doi.org/10.24963/ijcai.2018/79)
+
+### Service
+
+Reviewer for IJCAI (2021, 2022).
+
+Reviewer for Applied Energy, Information Sciences, Neural Networks.
 
 ### Contact
 
