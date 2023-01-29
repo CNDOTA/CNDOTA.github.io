@@ -31,10 +31,17 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 ### Publication
 
+
+#### 2023
+- [ICLR 2023] [Jianye Hao, Xiaotian Hao, Hangyu Mao, Weixun Wang, **Yaodong Yang**, Dong Li, YAN ZHENG, Zhen Wang. 2023.
+“Breaking the Curse of Dimensionality in Multiagent State Space: A Unified Agent Permutation Framework.” 
+In Proceedings of the 11th International Conference on Learning Representations.](https://openreview.net/forum?id=OxNQXyZK-K8)
+
+
 #### 2022
 - [NeurIPS 2022] [**Yaodong Yang**, Guangyong Chen, Weixun Wang, Xiaotian Hao, Jianye Hao and Pheng Ann Heng. 2022.
 “Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing.” 
-In Proceedings of the 36th Conference on Neural Information Processing Systems.]()
+In Proceedings of the 36th Conference on Neural Information Processing Systems.](https://openreview.net/forum?id=pd6ipu3jDw)
 
 
 - [AAAI 2022] [Tang, Hongyao, Zhaopeng Meng, Jianye Hao, Chen Chen, Daniel Graves, Dong Li, Changmin Yu, Hangyu Mao, Wulong Liu, **Yaodong Yang**, Wenyuan Tao and Li Wang. 2022. 
