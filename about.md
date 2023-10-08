@@ -34,7 +34,7 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 #### 2023
 - [ICLR 2023] [Jianye Hao, Xiaotian Hao, Hangyu Mao, Weixun Wang, **Yaodong Yang**, Dong Li, Yan Zheng, Zhen Wang. 2023.
-“Breaking the Curse of Dimensionality in Multiagent State Space: A Unified Agent Permutation Framework.” 
+“Boosting Multiagent Reinforcement Learning via Permutation Invariant and Permutation Equivariant Networks.” 
 In Proceedings of the 11th International Conference on Learning Representations.](https://openreview.net/forum?id=OxNQXyZK-K8)
 
 
@@ -82,7 +82,7 @@ In Proceedings of the 27th International Joint Conference on Artificial Intellig
 
 ### Service
 
-Reviewer for IJCAI (2021, 2022).
+Reviewer for IJCAI (2021, 2022, 2023), NeurIPS (2023), ICLR (2024).
 
 Reviewer for Applied Energy, Information Sciences, Neural Networks.
 
