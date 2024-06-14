@@ -8,7 +8,7 @@ dong's personal blog
 
 ### Research
 
-My current research focuses on multiagent systems, deep reinforcement learning and drug discovery.
+My current research focuses on multiagent reinforcement learning and AI for drug discovery.
 
 ### Timeline
 
@@ -31,66 +31,75 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 ### Publication
 
+#### 2024
+
+- [ICML 2024] [**Yaodong Yang**, Guangyong Chen, Jianye Hao, Pheng-Ann Heng. 2024.
+"Sample-Efficient Multiagent Reinforcement Learning with Reset Replay." 
+In Proceedings of the 41st International Conference on Machine Learning.](https://openreview.net/pdf?id=w8ei1o9U5y)
+
+
+- [WACV 2024] [Junde Xu, Zikai Lin, Donghao Zhou, **Yaodong Yang**, Xiangyun Liao, Qiong Wang, Bian Wu, Guangyong Chen, Pheng-Ann Heng. 2024.
+"DPPMask: Masked Image Modeling with Determinantal Point Processes." 
+In Proceedings of the 2024 IEEE/CVF Winter Conference on Applications of Computer Vision.](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200c255/1W0fCRLxrX2)
+
 
 #### 2023
 - [ICLR 2023] [Jianye Hao, Xiaotian Hao, Hangyu Mao, Weixun Wang, **Yaodong Yang**, Dong Li, Yan Zheng, Zhen Wang. 2023.
-“Boosting Multiagent Reinforcement Learning via Permutation Invariant and Permutation Equivariant Networks.” 
+"Boosting Multiagent Reinforcement Learning via Permutation Invariant and Permutation Equivariant Networks." 
 In Proceedings of the 11th International Conference on Learning Representations.](https://openreview.net/forum?id=OxNQXyZK-K8)
 
 
 #### 2022
 - [NeurIPS 2022] [**Yaodong Yang**, Guangyong Chen, Weixun Wang, Xiaotian Hao, Jianye Hao and Pheng Ann Heng. 2022.
-“Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing.” 
+"Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing." 
 In Proceedings of the 36th Conference on Neural Information Processing Systems.](https://openreview.net/forum?id=pd6ipu3jDw)
 
 
 - [AAAI 2022] [Tang, Hongyao, Zhaopeng Meng, Jianye Hao, Chen Chen, Daniel Graves, Dong Li, Changmin Yu, Hangyu Mao, Wulong Liu, **Yaodong Yang**, Wenyuan Tao and Li Wang. 2022. 
-“What about Inputting Policy in Value Function: Policy Representation and Policy-Extended Value Function Approximator.” 
+"What about Inputting Policy in Value Function: Policy Representation and Policy-Extended Value Function Approximator." 
 In Proceedings of the 36th AAAI Conference on Artificial Intelligence, 8441-8449.](https://ojs.aaai.org/index.php/AAAI/article/view/20820)
 
 #### 2021
 - [AAAI 2021] [Tang, Hongyao, Zhaopeng Meng, Guangyong Chen, Pengfei Chen, Chen Chen, **Yaodong Yang**, Luo Zhang, Wulong Liu and Jianye Hao. 2021. 
-“Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction.” 
+"Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction."
 In Proceedings of the 35th AAAI Conference on Artificial Intelligence, 9834-9842.](https://ojs.aaai.org/index.php/AAAI/article/view/17182)
 
 
 #### 2020
 - [**Yang, Yaodong**, Jianye Hao, Ben Liao, Kun Shao, Guangyong Chen, Wulong Liu, and Hongyao Tang. 2020. 
-“Qatten: A General Framework for Cooperative Multiagent Reinforcement Learning.” 
+"Qatten: A General Framework for Cooperative Multiagent Reinforcement Learning."
 CoRR abs/2002.03939.](https://arxiv.org/abs/2002.03939)
 
 
 - [ICML 2020] [**Yang, Yaodong**, Jianye Hao, Guangyong Chen, Hongyao Tang, Yingfeng Chen, Yujing Hu, Changjie Fan, and Zhongyu Wei. 2020. 
-“Q-Value Path Decomposition for Deep Multiagent Reinforcement Learning.” 
+"Q-Value Path Decomposition for Deep Multiagent Reinforcement Learning."
 In Proceedings of the 37th International Conference on Machine Learning.](https://dl.acm.org/doi/10.5555/3524938.3525930)
 
 #### 2019
 - [IJCAI 2019] [**Yang, Yaodong**, Jianye Hao, Yan Zheng, and Chao Yu. 2019. 
-“Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework.” 
+"Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework."
 In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 630–636.](https://doi.org/10.24963/ijcai.2019/89)
 
 
 - [AAMAS 2019] [Hao, Xiaotian, Weixun Wang, Jianye Hao, and **Yaodong Yang**. 2019. 
-“Independent Generative Adversarial Self-Imitation Learning in Cooperative Multiagent Systems.” 
+"Independent Generative Adversarial Self-Imitation Learning in Cooperative Multiagent Systems."
 In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems, 1315–1323.](http://dl.acm.org/citation.cfm?id=3306127.3331837)
 
 
 #### 2018
 - [IJCAI 2018] [**Yang, Yaodong**, Jianye Hao, Mingyang Sun, Zan Wang, Changjie Fan, and Goran Strbac. 2018. 
-“Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid.” 
+"Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid."
 In Proceedings of the 27th International Joint Conference on Artificial Intelligence, 569–575.](https://doi.org/10.24963/ijcai.2018/79)
 
 ### Service
 
-Reviewer for IJCAI (2021, 2022, 2023), NeurIPS (2023), ICLR (2024).
+Reviewer for IJCAI (2021, 2022, 2023, 2024), NeurIPS (2023, 2024), ICLR (2024), ICML (2024).
 
 Reviewer for Applied Energy, Information Sciences, Neural Networks.
 
 ### Contact
 
 Email: yydapple@gmail.com.
-
-Wechat: FederEF.
 
 ### Copyright
 
