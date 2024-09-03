@@ -97,7 +97,7 @@ In Proceedings of the 27th International Joint Conference on Artificial Intellig
 
 ### Service
 
-Reviewer for IJCAI (2021, 2022, 2023, 2024), NeurIPS (2023, 2024), ICLR (2024), ICML (2024).
+Reviewer for IJCAI (2021, 2022, 2023, 2024), NeurIPS (2023, 2024), ICLR (2024, 2025), ICML (2024), AAAI (2025).
 
 Reviewer for Applied Energy, Information Sciences, Neural Networks.
 
