@@ -33,6 +33,10 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 #### 2024
 
+- [Communications Biology] [**Yaodong Yang**, Guangyong Chen, Jinpeng Li, Junyou Li, Odin Zhang, Xujun Zhang, Lanqing Li, Jianye Hao, Ercheng Wang & Pheng-Ann Heng. 2024. 
+"Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS". Communications Biology 7, 1074](https://doi.org/10.1038/s42003-024-06746-w)
+
+
 - [ICML 2024] [**Yaodong Yang**, Guangyong Chen, Jianye Hao, Pheng-Ann Heng. 2024.
 "Sample-Efficient Multiagent Reinforcement Learning with Reset Replay." 
 In Proceedings of the 41st International Conference on Machine Learning.](https://openreview.net/pdf?id=w8ei1o9U5y)
