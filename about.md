@@ -33,19 +33,13 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 #### 2024
 
-- [Communications Biology] [**Yaodong Yang**, Guangyong Chen, Jinpeng Li, Junyou Li, Odin Zhang, Xujun Zhang, Lanqing Li, Jianye Hao, Ercheng Wang & Pheng-Ann Heng. 2024. 
+- [Communications Biology] [**Yaodong Yang**, Guangyong Chen, Jinpeng Li, Junyou Li, Odin Zhang, Xujun Zhang, Lanqing Li, Jianye Hao, Ercheng Wang and Pheng-Ann Heng. 2024. 
 "Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS". Communications Biology 7, 1074](https://doi.org/10.1038/s42003-024-06746-w)
 
 
 - [ICML 2024] [**Yaodong Yang**, Guangyong Chen, Jianye Hao, Pheng-Ann Heng. 2024.
 "Sample-Efficient Multiagent Reinforcement Learning with Reset Replay." 
 In Proceedings of the 41st International Conference on Machine Learning.](https://openreview.net/pdf?id=w8ei1o9U5y)
-
-
-- [WACV 2024] [Junde Xu, Zikai Lin, Donghao Zhou, **Yaodong Yang**, Xiangyun Liao, Qiong Wang, Bian Wu, Guangyong Chen, Pheng-Ann Heng. 2024.
-"DPPMask: Masked Image Modeling with Determinantal Point Processes." 
-In Proceedings of the 2024 IEEE/CVF Winter Conference on Applications of Computer Vision.](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200c255/1W0fCRLxrX2)
-
 
 #### 2023
 - [ICLR 2023] [Jianye Hao, Xiaotian Hao, Hangyu Mao, Weixun Wang, **Yaodong Yang**, Dong Li, Yan Zheng, Zhen Wang. 2023.
