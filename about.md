@@ -31,6 +31,12 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and Pro
 
 ### Publication
 
+#### 2025
+
+- [AAMAS 2025] [**Yaodong Yang**, Guangyong Chen, Hongyao Tang, Furui Liu, Danruo Deng, and Pheng-Ann Heng. 2025. 
+"Dual Ensembled Multiagent Q-Learning with Hypernet Regularizer." In Proceedings of the 24th International Conference on Autonomous Agents and MultiAgent Systems.](https://openreview.net/pdf?id=6bAkCauS3N)
+
+
 #### 2024
 
 - [Communications Biology] [**Yaodong Yang**, Guangyong Chen, Jinpeng Li, Junyou Li, Odin Zhang, Xujun Zhang, Lanqing Li, Jianye Hao, Ercheng Wang and Pheng-Ann Heng. 2024. 
@@ -91,7 +97,7 @@ In Proceedings of the 27th International Joint Conference on Artificial Intellig
 
 ### Service
 
-Reviewer for IJCAI (2021, 2022, 2023, 2024), NeurIPS (2023, 2024), ICLR (2024, 2025), ICML (2024), AAAI (2025).
+Reviewer for IJCAI (2021, 2022, 2023, 2024, 2025), NeurIPS (2023, 2024), ICLR (2024, 2025), ICML (2024, 2025), AAAI (2025).
 
 Reviewer for Applied Energy, Information Sciences, Neural Networks.
 
