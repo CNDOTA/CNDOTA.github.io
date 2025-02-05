@@ -34,7 +34,7 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and wor
 #### 2025
 
 - [AAMAS 2025] [**Yaodong Yang**, Guangyong Chen, Hongyao Tang, Furui Liu, Danruo Deng, and Pheng-Ann Heng. 2025. 
-"Dual Ensembled Multiagent Q-Learning with Hypernet Regularizer." In Proceedings of the 24th International Conference on Autonomous Agents and MultiAgent Systems.](https://openreview.net/pdf?id=6bAkCauS3N)
+"Dual Ensembled Multiagent Q-Learning with Hypernet Regularizer." In Proceedings of the 24th International Conference on Autonomous Agents and MultiAgent Systems.](https://arxiv.org/abs/2502.02018)
 
 
 #### 2024
