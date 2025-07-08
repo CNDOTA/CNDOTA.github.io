@@ -34,7 +34,7 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and wor
 #### 2025
 
 - [AAMAS 2025] [**Yaodong Yang**, Guangyong Chen, Hongyao Tang, Furui Liu, Danruo Deng, and Pheng-Ann Heng. 2025. 
-"Dual Ensembled Multiagent Q-Learning with Hypernet Regularizer." In Proceedings of the 24th International Conference on Autonomous Agents and MultiAgent Systems.](https://arxiv.org/abs/2502.02018)
+"Dual Ensembled Multiagent Q-Learning with Hypernet Regularizer." In Proceedings of the 24th International Conference on Autonomous Agents and MultiAgent Systems.](https://dl.acm.org/doi/10.5555/3709347.3743862)
 
 
 #### 2024
@@ -45,7 +45,7 @@ supervised by Prof. [Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and wor
 
 - [ICML 2024] [**Yaodong Yang**, Guangyong Chen, Jianye Hao, Pheng-Ann Heng. 2024.
 "Sample-Efficient Multiagent Reinforcement Learning with Reset Replay." 
-In Proceedings of the 41st International Conference on Machine Learning.](https://openreview.net/pdf?id=w8ei1o9U5y)
+In Proceedings of the 41st International Conference on Machine Learning.](https://dl.acm.org/doi/10.5555/3692070.3694378)
 
 #### 2023
 - [ICLR 2023] [Jianye Hao, Xiaotian Hao, Hangyu Mao, Weixun Wang, **Yaodong Yang**, Dong Li, Yan Zheng, Zhen Wang. 2023.
